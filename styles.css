@@ -12,16 +12,35 @@
 }
 
 .scoreContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: calc(var(--desktop-width) / 2);
     border: 1px solid black;
     height: 300px;
-   
+    background: hsl(241, 81%, 54%);
+    /* background-color: hsl(252, 100%, 67%); */
+    /* background: radial-gradient(circle,blue,yellow) */
 }
 
 .summaryContainer{
     width:calc(var(--desktop-width) / 2);
     /* width: 100px; */
-    border: 1px solid red;
-    /* background-color: red; */
+    /* border: 1px solid red; */
+    
     /* height: 100px; */
+}
+
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid grey;
+    background:radial-gradient();
+}
+
+#scoreSummary{
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
 }
