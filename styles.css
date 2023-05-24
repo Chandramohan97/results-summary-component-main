@@ -1,0 +1,27 @@
+:root{
+    --desktop-width : 1024px;
+}
+
+.primaryContainer{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+    width: var(--desktop-width);
+    /* justify-content: space-evenly; */
+    /* margin-left: 25vw;     */
+}
+
+.scoreContainer{
+    width: calc(var(--desktop-width) / 2);
+    border: 1px solid black;
+    height: 300px;
+   
+}
+
+.summaryContainer{
+    width:calc(var(--desktop-width) / 2);
+    /* width: 100px; */
+    border: 1px solid red;
+    /* background-color: red; */
+    /* height: 100px; */
+}
