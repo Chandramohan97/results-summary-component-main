@@ -29,20 +29,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Screenshot for Laptop :
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Result_Summary(Desktop)](https://github.com/Chandramohan97/results-summary-component-main/assets/102906185/9a2df2f5-709f-4a14-9bbd-568fb4e65ab3)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Screenshots for Mobile Devices(Iphone 12 Pro) : 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
+1. ![Result_Summary_Mobile](https://github.com/Chandramohan97/results-summary-component-main/assets/102906185/b3b9db9f-c495-45de-b2f7-957668413d11)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL :[(https://resultcards.netlify.app/)](https://resultcards.netlify.app/)
 
 ## My process
 
@@ -51,13 +48,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Media query
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
