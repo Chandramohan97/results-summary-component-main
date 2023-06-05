@@ -156,8 +156,10 @@ img{
     margin-top: 25px;
     height: 40px;
     background-color: hsl(224, 30%, 27%);
+    /* background-color: white; */
     border-radius: 100px;    
 }
+
 
 @media only screen and (max-width:768px){
     .continue{
@@ -178,14 +180,11 @@ img{
     }
 }
 
-.continue:active{
-    cursor: pointer;
-}
-
-.continue:focus{
-    cursor: pointer;
-}
-
 .p{
     color: hsl(0, 0%, 100%);
+}
+
+.continue:hover{
+    cursor: pointer;
+    background: linear-gradient(to right,hsl(252, 100%, 67%),   hsl(241, 81%, 54%));
 }
